@@ -72,12 +72,3 @@ I modelli sono stati valutati utilizzando metriche come Accuracy, Precision, Rec
 
 * **Hyperparameter Tuning:** Ottimizzazione avanzata dei parametri (es. GridSearchCV) per migliorare ulteriormente le performance.  
 * **Analisi delle correlazioni:** Approfondire le dipendenze tra variabili per ridurre eventuali ridondanze.
-
----
-
-*Progetto realizzato a scopo educativo e di analisi.*  
----
-
-Per una spiegazione video che potrebbe essere utile per arricchire la presentazione del tuo progetto o per approfondire XGBoost, puoi consultare:  
-XGBoost in Python from Start to Finish  
-Questo video è rilevante perché XGBoost è il modello risultato più performante nel tuo progetto e il tutorial mostra come implementarlo e ottimizzarlo passo dopo passo.
